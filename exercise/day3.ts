@@ -122,3 +122,6 @@ console.log(modifiedString);
 
 // Cara 2
 console.log(input2.replaceAll("a", "*"));
+
+// win : shift + alt + F
+// mac : shift + opt + F
